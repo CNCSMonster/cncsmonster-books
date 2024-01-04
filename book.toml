@@ -6,9 +6,9 @@ src = "src"
 title = "cncsmonster-books"
 
 # 使用toc插件
-[toc]
-enable = true
-start_level = 2
-end_level = 6
-ordered = false
+[preprocessors.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+max-level = 4
+
 
