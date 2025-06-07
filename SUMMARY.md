@@ -2,6 +2,11 @@
 
 
 - [CS](/home/cncsmonster/blogs/cncsmonster-books/CS/readme.md)
+	- [OS]()
+		- [小林Coding-OS](/home/cncsmonster/blogs/cncsmonster-books/CS/OS/小林Coding-OS/readme.md)
+			- [三.操作系统结构](/home/cncsmonster/blogs/cncsmonster-books/CS/OS/小林Coding-OS/三.操作系统结构.md)
+			- [二.硬件结构](/home/cncsmonster/blogs/cncsmonster-books/CS/OS/小林Coding-OS/二.硬件结构.md)
+			- [四.内存管理](/home/cncsmonster/blogs/cncsmonster-books/CS/OS/小林Coding-OS/四.内存管理.md)
 	- [计算机导论](/home/cncsmonster/blogs/cncsmonster-books/CS/计算机导论/readme.md)
 		- [大端序和小端序](/home/cncsmonster/blogs/cncsmonster-books/CS/计算机导论/大端序和小端序.md)
 		- [计算机导论概论](/home/cncsmonster/blogs/cncsmonster-books/CS/计算机导论/计算机导论概论.md)
@@ -20,4 +25,7 @@
 				- [搭建本地DockerRegistry](/home/cncsmonster/blogs/cncsmonster-books/Dev/DevOps/Conatiner/docker/搭建本地DockerRegistry.md)
 			- [podman]()
 				- [podman安装与使用](/home/cncsmonster/blogs/cncsmonster-books/Dev/DevOps/Conatiner/podman/podman安装与使用.md)
+- [PL](/home/cncsmonster/blogs/cncsmonster-books/PL/readme.md)
+	- [Rust]()
+		- [RustQuiz](/home/cncsmonster/blogs/cncsmonster-books/PL/Rust/RustQuiz/readme.md)
 - [文学](/home/cncsmonster/blogs/cncsmonster-books/文学/readme.md)
