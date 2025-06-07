@@ -1,5 +1,9 @@
 # Rust Quiz
 
+## notice
+
+可以注意到中间漏了些题目，比如 7, 这是因为这个题目已经过时了，已经被移除出 Rust Quiz
+
 ## quick intro
 
 Rust Quiz is a collection of questions designed to test your knowledge of Rust. It covers various topics, including ownership, lifetimes, and concurrency.
@@ -61,6 +65,9 @@ Rust 中类型的自有方法和类型实现的 trait 方法同名的情况下:
 
 1. 方法的接收器不同时, `&self` 比 `&mut self` 优先
 2. 方法的接收器相同时, 类型的自有方法比 trait 方法优先
+
+本题目为特殊情况，对于 dyn Trait 类型，存在 dyn Trait 的自有方法与该 Trait 提供的方法同名的情况下，当前没有办法调用
+到该 dyn Trait 类型的自有方法。
 
 ### Q11
 
