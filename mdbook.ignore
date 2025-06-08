@@ -3,3 +3,4 @@ book.toml
 SUMMARY.md
 mdbook.ignore
 **/nohup.out
+./run.sh
